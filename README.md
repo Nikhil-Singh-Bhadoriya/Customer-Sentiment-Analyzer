@@ -4,7 +4,7 @@ A comprehensive sentiment analysis project that uses both rule-based (TextBlob) 
 
 ## 📋 Overview
 
-This project analyzes sentiment from text data using the Sentiment140 dataset. It performs text preprocessing, exploratory data analysis, sentiment scoring, and trains multiple machine learning models to classify text as positive or negative sentiment.
+This project analyzes sentiment from text data using the Sentiment140 dataset(Dataset is taken from kaggle). It performs text preprocessing, exploratory data analysis, sentiment scoring, and trains multiple machine learning models to classify text as positive or negative sentiment.
 
 ## 🚀 Features
 
